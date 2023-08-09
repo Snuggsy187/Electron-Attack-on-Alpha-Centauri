@@ -10,4 +10,4 @@ Tested on Elkulator v1 only !!
 
 More updates coming soon......
 
-![Electron Attack on Alpha Centauri](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/tree/main/png/ElkAttack1.png)
+![Electron Attack on Alpha Centauri](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/blob/main/png/ElkAttack1.png)
