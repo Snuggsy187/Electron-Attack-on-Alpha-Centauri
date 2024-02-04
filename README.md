@@ -2,9 +2,9 @@
 
 Attack on Alpha Centauri - for the Acorn Electron
 
-[Download Disk Image version 1.0 !](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/raw/main/Releases/AonAC-E-v1.0.ssd)
+[Download Disk Image version 1.1 !](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/raw/main/Releases/AonAC-E-v1.1.ssd)
 
-[Download Tape Image version 1.0 !](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/raw/main/Releases/AonAC-E-v1.0.uef)
+[Download Tape Image version 1.1 !](https://github.com/Snuggsy187/Electron-Attack-on-Alpha-Centauri/raw/main/Releases/AonAC-E-v1.1.uef)  Type *RUN to load from tape image
 
 Tested on Elkulator v1 only !!
 
